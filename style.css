@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+}
+
+th, tr, td {
+	padding: 15px;
+}
+
+.jumbotron {
+	background-image: url(../../assets/images/fire-train.png);
+	color: white;
+	border-color: #d9534f;
+}
+
+.row {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.panel-primary>.panel-heading {
+	background-color: #d9534f;
+}
+
+.panel-primary {
+	border-color: #d9534f;
+}
